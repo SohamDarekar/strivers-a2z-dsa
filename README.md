@@ -20,7 +20,7 @@ The A2Z DSA playlist provides a roadmap covering:
 
 | Step | Topic                  | Status  |
 |------|------------------------|---------|
-| 1    | Basics                 | ❌ Not Started |       |
+| 1    | Basics                 | ✅ Started |       |
 | 2    | Arrays                 | ❌ Not Started |       |
 | 3    | Strings                | ❌ Not Started |       |
 | 4    | Recursion              | ❌ Not Started |       |
